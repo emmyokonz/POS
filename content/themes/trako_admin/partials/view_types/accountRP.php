@@ -1,0 +1,35 @@
+<table class="table table-condensed table-hover">
+	<thead>
+		<tr>
+			<th>sn</th>
+			<th>Date</th>
+			<th>Name</th>
+			<th>Description</th>
+			<th>Debit</th>
+			<th>Credit</th>
+			<th>Balance</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1</td>
+			<td>12/05/2020</td>
+			<td>Amara</td>
+			<td>Local transport</td>
+			<td>0</td>
+			<td>39,000.00</td>
+			<td>39,000.00</td>
+		</tr>
+	</tbody>
+	<tfoot>
+		<tr>
+			<th>sn</th>
+			<th>Date</th>
+			<th>Name</th>
+			<th>Description</th>
+			<th>Debit</th>
+			<th>Credit</th>
+			<th>Balance</th>
+		</tr>
+	</tfoot>
+</table>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="E:\xampp\htdocs\2020\pos_dev\pos_dev.clpprj">
+ <settings>
+  <PM_URL><![CDATA[D:/xampp/htdocs/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[D:/xampp/htdocs/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="E:\xampp\htdocs\2020\pos_dev\application\models\Product_model.php"/>
+  <file name="E:\xampp\htdocs\2020\pos_dev\application\controllers\Products.php"/>
+  <file name="E:\xampp\htdocs\2020\pos_dev\content\themes\trako_admin\views\dashboard\index.php"/>
+  <file name="E:\xampp\htdocs\2020\pos_dev\content\themes\trako_admin\partials\sidebar.php"/>
+  <file name="E:\xampp\htdocs\2020\pos_dev\application\controllers\Dashboard.php"/>
+  <file name="E:\xampp\htdocs\2020\pos_dev\application\models\sales_model.php"/>
+  <file name="E:\xampp\htdocs\2020\pos_dev\application\config\app_config.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.3">
+  <errfile name="E:\xampp\htdocs\2020\pos_dev\content\themes\trako_admin\views\dashboard\index.php">
+   <error val="119;123;131;123;2002;1;"/>
+   <error val="119;144;131;144;2002;1;"/>
+   <error val="119;167;131;167;2002;1;"/>
+   <error val="119;188;131;188;2002;1;"/>
+  </errfile>
+ </errors>
+</project>
