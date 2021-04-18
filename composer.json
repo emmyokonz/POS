@@ -1,14 +1,12 @@
 {
-	"description": "The CodeIgniter framework",
-	"name": "codeigniter/framework",
+	"description": "The Portable Office service",
+	"name": "POS",
 	"type": "project",
-	"homepage": "https://codeigniter.com",
+	"homepage": "https://pos.emmyokons.com",
 	"license": "MIT",
 	"support": {
-		"forum": "http://forum.codeigniter.com/",
-		"wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
-		"slack": "https://codeigniterchat.slack.com",
-		"source": "https://github.com/bcit-ci/CodeIgniter"
+		"wiki": "https://github.com/emmyokonz/pos/wiki",
+		"source": "https://github.com/emmyokons/pos"
 	},
 	"require": {
 		"php": ">=5.3.7"
